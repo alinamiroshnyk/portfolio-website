@@ -1,0 +1,44 @@
+body {
+  background-image: url("../images/home.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 40px;
+  position: absolute;
+  top: 200px;
+  left: 50px;
+}
+
+p {
+  padding-top: 160px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+  padding-left: 800px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  position: center;
+}
+
+a:link {
+  text-decoration: none;
+  text-emphasis-color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  text-emphasis-color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-emphasis-color: white;
+}
+
+a:active {
+  text-decoration: underline;
+  text-emphasis-color: white;
+}

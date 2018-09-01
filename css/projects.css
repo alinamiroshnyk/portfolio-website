@@ -1,0 +1,37 @@
+body {
+  background-image: url("../images/projects.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+p {
+  padding-top: 90px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 500px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+  position: center;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+  text-emphasis-color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  text-emphasis-color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-emphasis-color: black;
+}
+
+a:active {
+  text-decoration: underline;
+  text-emphasis-color: black;
+}
